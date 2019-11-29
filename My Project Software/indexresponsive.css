@@ -1,0 +1,84 @@
+
+
+/*media queries*/
+
+/*tablets*/
+
+@media screen and (max-width:800px){
+body{width:100%;
+     float:none;
+	 background:#eee;
+	 
+}
+
+.loginbox{
+	
+	width:500px;
+	height:auto;
+
+
+	}
+	
+		#welcome{
+		text-indent:0px;
+		padding-left:50px;
+		text-align:center;
+		
+	}
+	}
+	
+/*media queries*/
+
+/*mobile phones*/
+
+@media screen and (max-width:480px){
+	body{width:100%;
+    float:none;
+    background-color:#eee;	
+ 
+	}
+body img{
+	padding-left:30%;
+	clear:both;
+	float:none;
+	padding-right:50px;
+}
+	
+	span{
+		text-align:center;
+		clear:left;
+		font-size:25px;
+		float:none;
+		
+	}
+	
+.loginbox{
+	
+	width:300px;
+	height:auto;
+
+
+	}
+	
+	#welcome{
+		text-indent:0px;
+		padding-left:50px;
+		text-align:center;
+		
+	}
+		
+	
+
+.user {
+	width: 100px;
+	height:120px;
+	border-raduis:box-sizing;
+	overflow:hidden;
+	border-raduis:50px;
+	padding-left:0;
+
+
+}
+
+	
+}
